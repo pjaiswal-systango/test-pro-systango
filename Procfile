@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT test_pro_systango.wsgi:application
